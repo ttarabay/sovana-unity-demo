@@ -54,11 +54,11 @@
     <type fullname="MenuM" preserve="all" />
     <type fullname="SoundS" preserve="all" />
     <type fullname="ChracterPortrait" preserve="all" />
+    <type fullname="FakeAvatar" preserve="all" />
     <type fullname="UIS" preserve="all" />
     <type fullname="DoorS" preserve="all" />
-    <type fullname="GameM" preserve="all" />
-    <type fullname="FakeAvatar" preserve="all" />
     <type fullname="SovanaSignboard" preserve="all" />
+    <type fullname="GameM" preserve="all" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TMP_InputField" preserve="all" />
